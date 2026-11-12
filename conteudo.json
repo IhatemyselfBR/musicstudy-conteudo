@@ -1,0 +1,13 @@
+{
+  "versao": 1,
+  "acordes": [
+    { "nome": "Dó maior", "notas": ["C", "E", "G"] },
+    { "nome": "Lá menor", "notas": ["A", "C", "E"] }
+  ],
+  "escalas": [
+    { "nome": "Dó maior", "intervalos": [2, 2, 1, 2, 2, 2, 1] }
+  ],
+  "modos": [
+    { "nome": "Jônio", "intervalos": [2, 2, 1, 2, 2, 2, 1] }
+  ]
+}
